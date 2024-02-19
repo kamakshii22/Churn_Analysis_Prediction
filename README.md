@@ -42,6 +42,12 @@ In addition to the machine learning model development, we also created a Power B
   <img src="https://github.com/kamakshii22/Churn_Analysis_Prediction/blob/main/Churn_Analysis_Dashboard_Ks.JPG" alt="Power BI Logo" >
 </div>
 
+### Churn Analysis: 
+- The dashboard showcases churn rates across different demographic segments: age groups, genders, and residence locations.
+- Utilizing DAX measures and calculations, interactive charts offer insights into how demographic factors influence customer churn.
+- Users can dynamically explore churn trends and identify high-risk segments for targeted retention strategies.
+- This analysis enhances understanding of customer behavior and informs data-driven decision-making to mitigate churn risks effectively.
+
 ### Key Insights from Power BI Dashboard:
 - The churn rate for credit card customers is 21.16%.
 - There is a positive correlation between the number of products a customer has and their churn rate.
