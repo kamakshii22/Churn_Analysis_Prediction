@@ -48,18 +48,11 @@ In addition to the machine learning model development, we also created a Power B
 - Customers with a poor credit score are much more likely to churn than customers with an average credit score.
 - Active customers are less likely to churn than inactive customers.
 
-### Dashboard Features:
-- The Power BI dashboard incorporates various visualizations such as bar charts, pie charts, scatter plots, and heatmaps to represent different aspects of customer churn analysis.
-- Users can interact with the dashboard to filter data based on specific criteria, allowing for deeper insights into customer behavior and churn patterns.
-
 ### Utilization of Power BI for Business Insights:
 By leveraging Power BI, stakeholders can gain actionable insights from the churn prediction model's outputs. The interactive nature of the dashboard facilitates exploration of data trends, identification of churn drivers, and formulation of targeted retention strategies.
 
 ### Integration with Machine Learning Model:
 The Power BI dashboard seamlessly integrates with the machine learning model's predictions, enabling real-time monitoring of churn prediction performance and the effectiveness of retention initiatives. This integration enhances decision-making capabilities and empowers businesses to proactively address customer churn.
-
-### Continuous Improvement:
-The Power BI dashboard serves as a dynamic tool for ongoing analysis and optimization of customer retention efforts. Regular updates and enhancements based on new data insights and feedback ensure its relevance and effectiveness in driving business outcomes.
 
 ## GitHub Files:
 - [Power BI Dashboard File](https://github.com/kamakshii22/Churn_Analysis_Prediction/blob/main/Churn_Analysis_ks.pbix)
