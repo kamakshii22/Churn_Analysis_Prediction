@@ -39,7 +39,9 @@ XGBoost with over-sampling (SMOTE) chosen for high recall and balanced performan
 ## Power BI Dashboard Development:
 In addition to the machine learning model development, we also created a Power BI dashboard to further analyze the churn prediction results and provide interactive visualizations for stakeholders.
 <div align="center">
-  <img src="https://github.com/kamakshii22/Churn_Analysis_Prediction/blob/main/Churn_Analysis_Dashboard_Ks.JPG" alt="Power BI Logo" >
+  <a href="https://github.com/kamakshii22/Churn_Analysis_Prediction/blob/main/Churn_Analysis_ks.pbix">
+    <img src="https://github.com/kamakshii22/Churn_Analysis_Prediction/blob/main/Churn_Analysis_Dashboard_Ks.JPG" alt="Power BI Logo">
+  </a>
 </div>
 
 ### Churn Analysis: 
